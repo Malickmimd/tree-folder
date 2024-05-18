@@ -1,1 +1,11 @@
-Membre du groupe: Zeynabou BA \n Adja  Sira DOUMBOUYA \n Assietou NDIAYE \n Cheikh Touradou Lassana GUEYE\n
+Membre du groupe:
+
+Zeynabou BA  
+
+Adja  Sira DOUMBOUYA 
+
+Assietou NDIAYE  
+
+Cheikh Touradou Lassana GUEYE
+
+Fatima Nguenar DIOUF
