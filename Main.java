@@ -1,4 +1,4 @@
-public class ExplorateurFichier {
+public class Main {
 	public static void main(String[] args) {
 		Fichier fichier1 = new Fichier("app", "js");
 		Fichier fichier2 = new Fichier("index", "html");
